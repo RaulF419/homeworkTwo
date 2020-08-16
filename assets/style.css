@@ -1,92 +1,92 @@
 *{
    
-     font-family: "Lucida Console", Monaco, monospace, oblique ;
-     font-style: oblique;     
+    font-family: "Lucida Console", Monaco, monospace, oblique ;
+    font-style: oblique;     
 }
 
 body 
-  {   font-size: larger; 
-      background-color: rgb(167, 167, 167);
+ {   font-size: larger; 
+     background-color: rgb(167, 167, 167);
 } 
 
 
 .biocontainer 
-  {   margin-top: 20px;
-      margin-right: 20%;
-      margin-left: 15%;
-      padding-right: 5%;
-      border: 5px solid black;
+ {   margin-top: 20px;
+     margin-right: 20%;
+     margin-left: 15%;
+     padding-right: 5%;
+     border: 5px solid black;
 }
 
 .clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
+ content: "";
+ clear: both;
+ display: table;
 }
 
 .biocontainer img 
-  {
-      float: left;
-      height: 150px;
-      width: 150px
+ {
+     float: left;
+     height: 150px;
+     width: 150px
 }
 
 
 .form-group
-  {
-      width: 55%;
-      height: 75%;
-      margin-top: 10%;
-      margin-left: 25%;
-      border-style: dotted;
-      border-color: rgb(106, 0, 116);
-      border-width: 5px;
-      background-color: rgb(170, 168, 168);
-      text-align: center;
+ {
+     width: 55%;
+     height: 75%;
+     margin-top: 10%;
+     margin-left: 25%;
+     border-style: dotted;
+     border-color: rgb(106, 0, 116);
+     border-width: 5px;
+     background-color: rgb(170, 168, 168);
+     text-align: center;
 }
-    
    
+  
 .form-group input 
-  {
+ {
 
-      background-color: rgb(146, 146, 146);
-      color: rgb(40, 41, 40);
-      text-align: center;
+     background-color: rgb(146, 146, 146);
+     color: rgb(40, 41, 40);
+     text-align: center;
 }
 
 .form-group label 
-  {
+ {
 
-      background-color: rgb(170, 170, 170);
-      color: rgb(163, 160, 160);
-      text-align: center;
+     background-color: rgb(170, 170, 170);
+     color: rgb(163, 160, 160);
+     text-align: center;
 }
 
 
 .portfoliocontainer 
-  {
-  
-      margin-left: 42%;
-      border-width: 5px;
+ {
+ 
+     margin-left: 42%;
+     border-width: 5px;
 } 
-  
+ 
 .portfoliocontainer img 
-  {
-      height: 150px;
-      width: 150px;
-      margin-top: 10px;
-      margin-bottom: 10px;
-      margin-left: 10px;
-      margin-right: 10px;
-      border-style: solid;
+ {
+     height: 150px;
+     width: 150px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     margin-left: 10px;
+     margin-right: 10px;
+     border-style: solid;
 }
-  
+ 
 
 
-  
+ 
 
-   
   
-  
+ 
+ 
 
 
